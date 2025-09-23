@@ -1,6 +1,6 @@
 <?php
 $host = '172.31.41.209';
-$user = 'art_gellery';
+$user = 'gellery';
 $pass = '123456';
 $dbname = 'art_gellery';
 
