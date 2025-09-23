@@ -1,8 +1,8 @@
 <?php
-$host = '172.31.41.209';
-$user = 'gallery';
-$pass = '123456';
+$host = '172.31.38.87';
+$user = 'galleryDB';
 $dbname = 'art_gellery';
+$pass = '123456';
 
 $connect = new mysqli($host, $user, $pass, $dbname);
 
